@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kingandroid.kingapp"
+    android:installLocation="internalOnly">
+
+    <application
+        android:name=".AppApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/tuxing"
+        android:label="@string/app_name"
+        android:logo="@drawable/abc_vector_test"
+        android:roundIcon="@drawable/tuxing"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.KingApp">
+        <activity
+            android:name=".controls.ClockViewActivity"
+            android:exported="true">
+        </activity>
+        <activity
+            android:name=".controls.GalleryActivity"
+            android:exported="true">
+        </activity>
+        <activity
+            android:name=".fragment.DialogFragmentExampleActivity"
+            android:exported="true">
+        </activity>
+        <activity
+            android:name=".fragment.ListFragmentExampleActivity"
+            android:exported="true"></activity>
+        <activity
+            android:name=".controls.ActionBarActivity"
+            android:exported="true" />
+        <activity
+            android:name=".notice.SendNoticeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".notice.RecvNotififyViewActivity"
+            android:exported="true" />
+        <activity
+            android:name=".fragment.FragmentManagerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".fragment.FragmentActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NoLayoutActivity"
+            android:exported="true">
+        </activity>
+        <activity
+            android:name=".controls.ViewPagerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".controls.GridViewActivity"
+            android:exported="true" />
+        <activity
+            android:name=".controls.ListViewActivity"
+            android:exported="true" />
+        <activity
+            android:name=".controls.SpinnerBaseAdapterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".controls.TimePickerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".controls.DatePickerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

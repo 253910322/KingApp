@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/drawable/display_border.xml" value="0.21822916666666667" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/activity_action_bar.xml" value="0.18393782383419688" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/activity_base_adapter.xml" value="0.12613981762917933" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/activity_clock_view.xml" value="0.203125" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/activity_date_picker.xml" value="0.1" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/activity_dialog_fragment_example.xml" value="0.16354166666666667" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/activity_fragment.xml" value="0.17222222222222222" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/activity_fragment_manager.xml" value="0.16354166666666667" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/activity_gallery.xml" value="0.35" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/activity_grid_view.xml" value="0.1" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/activity_list_fragment_example.xml" value="0.16354166666666667" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/activity_list_view.xml" value="0.1" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/activity_main.xml" value="0.286231884057971" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/activity_notifications.xml" value="0.36302083333333335" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/activity_preference_fragment_example.xml" value="0.16354166666666667" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/activity_send_notice.xml" value="0.16354166666666667" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/activity_time_picker.xml" value="0.12613981762917933" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/activity_view_pager.xml" value="0.17222222222222222" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/array_down_style.xml" value="0.12613981762917933" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/base_down_style.xml" value="0.17222222222222222" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/controls/activity_date_picker.xml" value="0.18333333333333332" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/fragment1.xml" value="0.16354166666666667" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/fragment_show_style.xml" value="0.2359375" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/key_pad_view.xml" value="0.1" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/single_down_style.xml" value="0.12613981762917933" />
+        <entry key="..\:/AndroidCode/KingApp/app/src/main/res/layout/test.xml" value="0.1" />
+        <entry key="..\:/AndroidCode/KingApp/utils/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21927083333333333" />
+        <entry key="..\:/AndroidCode/KingApp/utils/src/main/res/drawable/ic_launcher_background.xml" value="0.21927083333333333" />
+        <entry key="..\:/AndroidCode/KingApp/utils/src/main/res/layout/activity_main.xml" value="0.36302083333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
